@@ -37,7 +37,8 @@ My resume - [Resume](https://drive.google.com/drive/u/0/folders/1UCvye4OWA8hdtiw
 <hr>
 
 <h3> Languages and Tools 🛠 </h3>
-<div style="display:flex; margin-top:30px">
+<br>
+<div style="display:flex;">
     <div style="margin-right:20px">
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c04208976fe84f5bfd2111ba446acf65ff373c962ed80bbf7aa028820a5bbd79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667"><img align="left" alt="TypeScript" width="30px" src="https://camo.githubusercontent.com/c04208976fe84f5bfd2111ba446acf65ff373c962ed80bbf7aa028820a5bbd79/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d706c61696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
     </div>
