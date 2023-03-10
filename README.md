@@ -26,9 +26,9 @@ I'm a Full Stack Web Developer who is passionate about developing things aesthet
 
 📫 How to reach me: Jayesh23mate@gmail.com
 
-Want to know more about me? [My Portfolio](https://github.com/justtJayesh)
+🧾 Want to know more about me? [My Portfolio](https://github.com/justtJayesh)
 
-My resume - [Resume](https://drive.google.com/drive/u/0/folders/1UCvye4OWA8hdtiwYMVziRK9-qSmv3Tpb)
+📄 My resume - [Resume](https://drive.google.com/drive/u/0/folders/1UCvye4OWA8hdtiwYMVziRK9-qSmv3Tpb)
 
 ❓ Ask me about anything related to MERN stack and related technologies.
 
