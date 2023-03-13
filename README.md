@@ -26,7 +26,7 @@ I'm a Full Stack Web Developer who is passionate about developing things aesthet
 
 📫 How to reach me: Jayesh23mate@gmail.com
 
-🧾 Want to know more about me? **My Portfolio:** https://justtjayesh.github.io
+🧾 Want to know more about me? **My Portfolio:** https://justtjayesh.github.io/
 
 📄 My resume - [Resume](https://drive.google.com/drive/u/0/folders/1UCvye4OWA8hdtiwYMVziRK9-qSmv3Tpb)
 
