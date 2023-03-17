@@ -20,19 +20,19 @@ I'm a Full Stack Web Developer who is passionate about developing things aesthet
 
 <br>
 
-🌱 I’m currently learning Full Stack Web Development.
+🌱 - I’m currently learning Full Stack Web Development.
 
-💬 Ask me about React, Node JS, JavaScript, HTML, CSS, Data Structure Algorithm
+💬 - Ask me about React, Node JS, JavaScript, HTML, CSS, Data Structure Algorithm
 
-📫 How to reach me: Jayesh23mate@gmail.com
+📫 - How to reach me: Jayesh23mate@gmail.com
 
-🧾 Want to know more about me? **My Portfolio:** https://justtjayesh.github.io/
+🧾 - Want to know more about me? **My Portfolio:** https://justtjayesh.github.io/
 
-📄 My resume - [Resume](https://drive.google.com/drive/u/0/folders/1UCvye4OWA8hdtiwYMVziRK9-qSmv3Tpb)
+📄 - My resume - [Resume](https://drive.google.com/drive/u/0/folders/1UCvye4OWA8hdtiwYMVziRK9-qSmv3Tpb)
 
-❓ Ask me about anything related to MERN stack and related technologies.
+❓ - Ask me about anything related to MERN stack and related technologies.
 
-⚡ Fun fact: I like to explore new products. Recently I'm really impressed with Arc by The Browse Company.
+⚡  - Fun fact: I like to explore new products. Recently I'm really impressed with Arc by The Browse Company.
 
 <hr>
 
@@ -75,4 +75,9 @@ I'm a Full Stack Web Developer who is passionate about developing things aesthet
 <br>
 <hr>
 <h3>Stats 📊</h3>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bac4a052b2e81e8fecdb785d0c61c59bd469c840a37ec8bd6bacd3e0fa42a90b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a757374744a61796573682673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565"><img src="https://camo.githubusercontent.com/bac4a052b2e81e8fecdb785d0c61c59bd469c840a37ec8bd6bacd3e0fa42a90b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a757374744a61796573682673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565" align="left" data-canonical-src="https://github-readme-stats.vercel.app/api?username=justtJayesh&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
+<div>
+    <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bac4a052b2e81e8fecdb785d0c61c59bd469c840a37ec8bd6bacd3e0fa42a90b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a757374744a61796573682673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565"><img src="https://camo.githubusercontent.com/bac4a052b2e81e8fecdb785d0c61c59bd469c840a37ec8bd6bacd3e0fa42a90b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a757374744a61796573682673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565" align="left" data-canonical-src="https://github-readme-stats.vercel.app/api?username=justtJayesh&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
+</div>
+
+
+
