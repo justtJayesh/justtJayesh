@@ -2,7 +2,7 @@
 
 **`(Developer / UI Designer) 🎧`**
 
-I'm a Full Stack Web Developer who is passionate about developing things aesthetically pleasing and creative to elevate people and build community. Some technologies I enjoy working with include ReactJS, Jamstack (Javascript, API + Markup), and creating User interfaces using Figma and Sketch. My Interest in designing led me to become a Full Stack Web Developer, So that I could build whatever I want.
+I'm a Full Stack Web Developer who is passionate about developing things aesthetically pleasing and creative to elevate people's interaction with the product. Some technologies I enjoy working with include ReactJS, Jamstack (Javascript, API + Markup), and creating User interfaces using Figma and Sketch. My Interest in designing led me to become a Full Stack Web Developer, So that I could build whatever I want.
 
 <br>
 
