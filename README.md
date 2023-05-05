@@ -2,7 +2,7 @@
 
 **`(Developer / UI Designer) 🎧`**
 
-I'm a Full Stack Web Developer passionate about creating aesthetically pleasing and creative products to enhance user experience. My tech stack includes ReactJS, Jamstack (Javascript, API + Markup), and UI design with Figma and Sketch. My interest in design drove me to become a Full Stack Web Developer, so I could bring my ideas to life.
+I am a Full Stack Web Developer with a passion for creating visually appealing and innovative products to improve user experience. My technical expertise includes ReactJS, Jamstack (Javascript, API + Markup), and UI design with Figma and Sketch. My enthusiasm for design inspired me to become a Full Stack Web Developer, enabling me to bring my ideas to fruition.
 
 <br>
 
