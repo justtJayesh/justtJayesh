@@ -77,6 +77,7 @@ I am a Full Stack Web Developer with a passion for creating visually appealing a
 <h3>Stats 📊</h3>
 <div>
     <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bac4a052b2e81e8fecdb785d0c61c59bd469c840a37ec8bd6bacd3e0fa42a90b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a757374744a61796573682673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565"><img src="https://camo.githubusercontent.com/bac4a052b2e81e8fecdb785d0c61c59bd469c840a37ec8bd6bacd3e0fa42a90b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a757374744a61796573682673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526686964655f626f726465723d74727565" align="left" data-canonical-src="https://github-readme-stats.vercel.app/api?username=justtJayesh&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" style="max-width: 100%;"></a></p>
+    <p><a href="https://api.githubtrends.io/user/svg/justtJayesh/repos?time_range=one_year&theme=dark"></a>a</p>
 </div>
 
 
