@@ -81,3 +81,5 @@ I am a Full Stack Web Developer with a passion for creating visually appealing a
 
 
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/justtJayesh/langs)](https://githubtrends.io)
+
