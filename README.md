@@ -10,9 +10,6 @@ I am a Full Stack Web Developer with a passion for creating visually appealing a
 <a href="https://www.linkedin.com/in/jayeshmate/">
     <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn%20-blue?style=for-the-badge&logoColor=white&logo=linkedin" style="max-width: 100%;"/>
 </a>
-<a href="https://twitter.com/justtJayesh">
-    <img src="https://camo.githubusercontent.com/13039975938e719b60e38191d050a182c1615f0e64a87494792c510ee111917a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333030616365652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="twitter" data-canonical-src="https://img.shields.io/badge/twitter-%2300acee.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
-</a>
 <a href="https://www.behance.net/jayeshtaco">
     <img src="https://custom-icon-badges.demolab.com/badge/-Behance%20-black?style=for-the-badge&logoColor=white&logo=behance"/>
 </a>
@@ -20,7 +17,6 @@ I am a Full Stack Web Developer with a passion for creating visually appealing a
 
 <br>
 
-🌱 - I’m currently learning Full Stack Web Development.
 
 💬 - Ask me about React, Node JS, JavaScript, HTML, CSS, Data Structure Algorithm
 
