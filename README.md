@@ -11,7 +11,7 @@ As an enthusiastic and dedicated Full Stack Developer, I am a firm believer in e
 
 📫 - How to reach me: Jayesh23mate@gmail.com
 
-🧾 - Want to know more about me? **My Portfolio:** https://justtjayesh.github.io/
+🧾 - Want to know more about me? **My Portfolio:** [https://justtjayesh.github.io/](https://justtjayesh.vercel.app/)
 
 📄 - My resume - [Resume](https://drive.google.com/drive/u/0/folders/1UCvye4OWA8hdtiwYMVziRK9-qSmv3Tpb)
 
