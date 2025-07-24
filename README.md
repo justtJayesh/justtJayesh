@@ -13,7 +13,7 @@ As an enthusiastic and dedicated Full Stack Developer, I am a firm believer in e
 
 🧾 - Want to know more about me? **My Portfolio:** [https://justtjayesh.vercel.app/](https://justtjayesh.vercel.app/)
 
-📄 - My resume - [Resume](https://drive.google.com/drive/u/0/folders/1UCvye4OWA8hdtiwYMVziRK9-qSmv3Tpb)
+📄 - My resume - [Resume](https://drive.google.com/file/d/1BhZJtOQVZQAT6Rkm0wxVgCZuym1WVBh4/view?usp=drive_link)
 
 ❓ - Ask me about anything related to MERN stack and related technologies.
 
